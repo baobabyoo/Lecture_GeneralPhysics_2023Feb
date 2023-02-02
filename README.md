@@ -4,7 +4,7 @@
 * Location: NSYSU, 理 SC2001
 * Language: 中文
 
-<img src="./images/Lecture_RadioInterferometry_2022Oct_QR.png" alt="QRcode" width="200px"/>
+<img src="./images/Lecture_GeneralPhysics_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
 ### TA
 - **TBA**
@@ -41,8 +41,9 @@
 2. There is no final exams. The workload for you to produce your final report may be 10~15 hours if you have no experience and knowledge in this area.
 
 ## Assessment:
+- homework: 10%
 - mid-term: 25%
-- final report: 75%
+- final report: 65%
 
 ## Suggested Textbooks:
 1. Jearl Walker, David Halliday, Robert Resnick, Principles of Physics >10th Edition.
