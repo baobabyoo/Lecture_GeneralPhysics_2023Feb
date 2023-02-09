@@ -7,7 +7,7 @@
 <img src="./images/Lecture_GeneralPhysics_2023Feb_QR.png" alt="QRcode" width="200px"/>
 
 ### TA
-- **TBA**
+- 葉晧祥 (j93939343@yahoo.com.tw)
 
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
