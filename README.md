@@ -14,8 +14,8 @@
 - Time periods: Tue. 11:30-13:30; Wed. 12:30-14:30
 
 ## Syllabus:
-1. (February 15) 狹義相對論 special relativity
-2. (February 22) 狹義相對論現象 (雙生子、為何天空是黑的、) special relativity related phenomena
+1. (February 15) 狹義相對論 special relativity [notes](./lecture_notes/SpecialRelativity_part1)
+2. (February 22) 狹義相對論現象 special relativity related phenomena
 3. (March 01) 量子物理概念 general concept of quantum physics
 4. (March 08) 自由電子波函數, 位能井 wave function of free electron, potential well
 5. (March 15) 校慶放假
