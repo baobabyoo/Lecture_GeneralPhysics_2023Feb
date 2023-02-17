@@ -13,6 +13,13 @@
 - Location: **理SC2006-3**
 - Time periods: Tue. 11:30-13:30; Wed. 12:30-14:30
 
+### Homework and Suggested Problem Sets:
+#### Homework (format: hand-writing on A4 papers; on due date, hand it to the TA)
+- Halliday & Resnick's Principles of Physics (11th ed.),, chapter 37, Problems 1, 7, 13, 21 (due March 08)
+
+#### Suggestion
+- Halliday & Resnick's Principles of Physics (11th ed.),, chapter 37, Problems 6, 32, 37, 38, 39, 55
+
 ## Syllabus:
 1. (February 15) 狹義相對論 special relativity [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part1.pdf)
 2. (February 22) 狹義相對論現象 special relativity related phenomena [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part2.pdf)
