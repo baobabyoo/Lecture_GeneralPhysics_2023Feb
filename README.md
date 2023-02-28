@@ -18,12 +18,12 @@
 - Halliday & Resnick's Principles of Physics (11th ed.),, chapter 37, Problems 1, 7, 13, 21 (due March 08)
 
 #### Suggestion
-- Halliday & Resnick's Principles of Physics (11th ed.),, chapter 37, Problems 6, 32, 37, 38, 39, 55
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 37, Problems 6, 32, 37, 38, 39, 55
 
 ## Syllabus:
 1. (February 15) 狹義相對論 special relativity [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part1.pdf)
 2. (February 22) 狹義相對論現象 special relativity related phenomena [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part2.pdf)
-3. (March 01) 量子物理概念 general concept of quantum physics
+3. (March 01) 量子物理概念 general concept of quantum physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 4. (March 08) 自由電子波函數, 位能井 wave function of free electron, potential well
 5. (March 15) 校慶放假
 6. (March 22) 氫原子模型, 元素週期表 periodic table
