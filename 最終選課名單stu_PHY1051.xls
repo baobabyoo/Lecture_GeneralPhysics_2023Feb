@@ -1,0 +1,563 @@
+<html>
+<meta http-equiv=Content-Type content=text/html; charset=big5>
+<body>
+<table border="1">
+<tr>
+<th nowrap>序號</th>
+<th nowrap>學號</th>
+<th nowrap>姓名</th>
+<th nowrap>年級</th>
+<th nowrap>電子信箱</th>
+<th nowrap>選上否</th>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="left">B063021020</td>
+<td align="left">
+賴凱�h
+</td>
+<td align="left">4</td>
+<td align="left">a50b67@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="left">B072020022</td>
+<td align="left">
+蘇敬軒
+</td>
+<td align="left">4</td>
+<td align="left">b072020022@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="left">B082020018</td>
+<td align="left">
+郭宇唐
+</td>
+<td align="left">4</td>
+<td align="left">as7678717@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="left">B085090008</td>
+<td align="left">
+陳治瑋
+</td>
+<td align="left">4</td>
+<td align="left">b085090008@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="left">B085090013</td>
+<td align="left">
+王傳中
+</td>
+<td align="left">4</td>
+<td align="left">b085090013@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="left">B085090015</td>
+<td align="left">
+陳易宏
+</td>
+<td align="left">4</td>
+<td align="left">b085090015@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="left">B085090016</td>
+<td align="left">
+楊玉培
+</td>
+<td align="left">4</td>
+<td align="left">b085090016@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="left">B085090036</td>
+<td align="left">
+吳亭萱
+</td>
+<td align="left">4</td>
+<td align="left">b085090036@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="left">B092010049</td>
+<td align="left">
+蔡明翰
+</td>
+<td align="left">3</td>
+<td align="left">b092010049@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="left">B092020004</td>
+<td align="left">
+蔡恬希
+</td>
+<td align="left">3</td>
+<td align="left">s611036@nhes.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="left">B092020036</td>
+<td align="left">
+王泓智
+</td>
+<td align="left">3</td>
+<td align="left">b092020036@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="left">B092020037</td>
+<td align="left">
+陳文輝
+</td>
+<td align="left">3</td>
+<td align="left">bob0913709272@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="left">B092020045</td>
+<td align="left">
+陳品鈞
+</td>
+<td align="left">3</td>
+<td align="left">b092020045@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="left">B092020047</td>
+<td align="left">
+李佳璇
+</td>
+<td align="left">3</td>
+<td align="left">liki6318@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="left">B092020048</td>
+<td align="left">
+張益絃
+</td>
+<td align="left">3</td>
+<td align="left">b092020048@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="left">B092020055</td>
+<td align="left">
+陳孟澤
+</td>
+<td align="left">3</td>
+<td align="left">b092020055@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="left">B093021007</td>
+<td align="left">
+陳瑋宏
+</td>
+<td align="left">3</td>
+<td align="left">b093021007@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="left">B095020029</td>
+<td align="left">
+李冠霆
+</td>
+<td align="left">3</td>
+<td align="left">b095020029@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="left">B102020020</td>
+<td align="left">
+蔡楚彬
+</td>
+<td align="left">2</td>
+<td align="left">b102020020@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="left">B102020025</td>
+<td align="left">
+陸嘉康
+</td>
+<td align="left">2</td>
+<td align="left">b102020025@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td align="left">B102020045</td>
+<td align="left">
+許庭佳
+</td>
+<td align="left">2</td>
+<td align="left">jinxcarryyou@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td align="left">B105090011</td>
+<td align="left">
+莊耀欣
+</td>
+<td align="left">2</td>
+<td align="left">b105090011@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td align="left">B105090014</td>
+<td align="left">
+李承勳
+</td>
+<td align="left">2</td>
+<td align="left">ilcararmani@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="left">B105090019</td>
+<td align="left">
+羅元駿
+</td>
+<td align="left">2</td>
+<td align="left">k124505452@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td align="left">B112010038</td>
+<td align="left">
+陳婇昕
+</td>
+<td align="left">1</td>
+<td align="left">caixinc766@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td align="left">B112020001</td>
+<td align="left">
+饒博元
+</td>
+<td align="left">1</td>
+<td align="left">b112020001@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td align="left">B112020002</td>
+<td align="left">
+邱柏文
+</td>
+<td align="left">1</td>
+<td align="left">a43132332@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td align="left">B112020003</td>
+<td align="left">
+郭群鑫
+</td>
+<td align="left">1</td>
+<td align="left">b112020003@g-mail.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td align="left">B112020004</td>
+<td align="left">
+王偉漢
+</td>
+<td align="left">1</td>
+<td align="left">b112020004@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="left">B112020005</td>
+<td align="left">
+蕭安婕
+</td>
+<td align="left">1</td>
+<td align="left">b112020005@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">31</td>
+<td align="left">B112020006</td>
+<td align="left">
+蘇芸逸
+</td>
+<td align="left">1</td>
+<td align="left">yunyisu6456@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">32</td>
+<td align="left">B112020007</td>
+<td align="left">
+陳易謙
+</td>
+<td align="left">1</td>
+<td align="left">b112020007@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">33</td>
+<td align="left">B112020008</td>
+<td align="left">
+吳凱頎
+</td>
+<td align="left">1</td>
+<td align="left">eric930506@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">34</td>
+<td align="left">B112020009</td>
+<td align="left">
+洪凱昕
+</td>
+<td align="left">1</td>
+<td align="left">b112020009@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">35</td>
+<td align="left">B112020010</td>
+<td align="left">
+蔡沛宸
+</td>
+<td align="left">1</td>
+<td align="left">b112020010@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">36</td>
+<td align="left">B112020011</td>
+<td align="left">
+林筠恩
+</td>
+<td align="left">1</td>
+<td align="left">b112020011@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">37</td>
+<td align="left">B112020012</td>
+<td align="left">
+洪榆芳
+</td>
+<td align="left">1</td>
+<td align="left">b112020012@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">38</td>
+<td align="left">B112020013</td>
+<td align="left">
+雷佳龍
+</td>
+<td align="left">1</td>
+<td align="left">kevin20030822@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">39</td>
+<td align="left">B112020014</td>
+<td align="left">
+彭柏薳
+</td>
+<td align="left">1</td>
+<td align="left">b112020014@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">40</td>
+<td align="left">B112020015</td>
+<td align="left">
+林宸勛
+</td>
+<td align="left">1</td>
+<td align="left">b112020015@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">41</td>
+<td align="left">B112020016</td>
+<td align="left">
+賴彥綸
+</td>
+<td align="left">1</td>
+<td align="left">laiyenlun2004@gmail.com </td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">42</td>
+<td align="left">B112020017</td>
+<td align="left">
+黃子默
+</td>
+<td align="left">1</td>
+<td align="left">b112020017@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">43</td>
+<td align="left">B112020018</td>
+<td align="left">
+謝政穎
+</td>
+<td align="left">1</td>
+<td align="left">b112020018@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">44</td>
+<td align="left">B112020019</td>
+<td align="left">
+陳乃華
+</td>
+<td align="left">1</td>
+<td align="left">b112020019@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">45</td>
+<td align="left">B112020020</td>
+<td align="left">
+柯睿恩
+</td>
+<td align="left">1</td>
+<td align="left">b112020020@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">46</td>
+<td align="left">B112020023</td>
+<td align="left">
+何凱憲
+</td>
+<td align="left">1</td>
+<td align="left">kent07150927@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">47</td>
+<td align="left">B112020024</td>
+<td align="left">
+蔡欣妤
+</td>
+<td align="left">1</td>
+<td align="left">b112020024@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">48</td>
+<td align="left">B112020025</td>
+<td align="left">
+方柏勻
+</td>
+<td align="left">1</td>
+<td align="left">b112020025@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">49</td>
+<td align="left">B112020026</td>
+<td align="left">
+林柏廷
+</td>
+<td align="left">1</td>
+<td align="left">b112020026@g-mail.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">50</td>
+<td align="left">B112020027</td>
+<td align="left">
+張宇翔
+</td>
+<td align="left">1</td>
+<td align="left">b112020027@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">51</td>
+<td align="left">B112020028</td>
+<td align="left">
+莊宗群
+</td>
+<td align="left">1</td>
+<td align="left">b112020028@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">52</td>
+<td align="left">B115040003</td>
+<td align="left">
+蔡凱翔
+</td>
+<td align="left">1</td>
+<td align="left">tkx920923@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">53</td>
+<td align="left">B115040032</td>
+<td align="left">
+許凱祥
+</td>
+<td align="left">1</td>
+<td align="left">b115040032@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">54</td>
+<td align="left">B115040034</td>
+<td align="left">
+王培維
+</td>
+<td align="left">1</td>
+<td align="left">brian594666@gmail.com</td>
+<td align="center">Y</td>
+</tr>
+<tr>
+<td align="center">55</td>
+<td align="left">B115040042</td>
+<td align="left">
+林珍�D
+</td>
+<td align="left">1</td>
+<td align="left">b115040042@student.nsysu.edu.tw</td>
+<td align="center">Y</td>
+</tr>
+</table></body></html>
