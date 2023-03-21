@@ -16,9 +16,13 @@
 ### Homework and Suggested Problem Sets:
 #### Homework (format: hand-writing on A4 papers; on due date, hand it to the TA)
 - Halliday & Resnick's Principles of Physics (11th ed.),, chapter 37, Problems 1, 7, 13, 21 (due March 08)
+- Halliday & Resnick's Principles of Physics (11th ed.),, chapter 38, Problems 23; Chapter 39, Problems 3, 9; Chapter 40, Problems 17, 54, 57  (due Apr. 12)
+
 
 #### Suggestion
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 37, Problems 6, 32, 37, 38, 39, 55
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 38, Problems 1, 2, 5, 9, 11, 13, 56
+- Halliday & Resnick's Principles of Physics (11th ed.), chapter 39, Problems 2, 4, 7, 12, 22, 25, 32, 35, 54, 55
 
 ## Syllabus:
 1. (February 15) 狹義相對論 special relativity [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/SpecialRelativity_part1.pdf)
