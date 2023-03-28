@@ -31,7 +31,7 @@
 4. (March 08) 自由電子波函數, 位能井 wave function of free electron, potential well
 5. (March 15) 校慶放假
 6. (March 22) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
-7. (March 29) 固態物理簡介 introduction to solid state physics
+7. (March 29) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf)
 8. (April 05) 清明節放假
 9. (April 12) 期中考
 10. (April 19) 靜電靜磁學 electric field/force, magnetic field/force
