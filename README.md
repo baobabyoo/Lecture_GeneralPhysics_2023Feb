@@ -34,7 +34,7 @@
 7. (March 29) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf) In addition, I came across [this webpage](https://www.pveducation.org/pvcdrom/pn-junctions/bias-of-pn-junctions) which gives a very nice introduction about the pn junctions.
 8. (April 05) 清明節放假
 9. (April 12) 期中考
-10. (April 19) 靜電靜磁學 electric field/force, magnetic field/force
+10. (April 19) 靜電靜磁學 electric field/force, magnetic field/force [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part1.pdf)
 11. (April 26) 電生磁、磁生電 law of induction
 12. (May 03) 基礎電路學 basic circuits
 13. (May 10) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave
