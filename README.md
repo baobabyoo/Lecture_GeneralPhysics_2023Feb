@@ -37,7 +37,7 @@
 10. (April 19) 靜電靜磁學 electric field/force, magnetic field/force [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part1.pdf)
 11. (April 26) 電生磁、磁生電 law of induction [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part2.pdf)
 12. (May 03) 基礎電路學 basic circuits [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part3.pdf)
-13. (May 10) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave
+13. (May 10) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
 14. (May 17) 物理光學 physical optics
 15. (May 24) 幾何光學 geometric optics
 16. (May 31) 原子核物理簡介 introduction to nuclear physics
