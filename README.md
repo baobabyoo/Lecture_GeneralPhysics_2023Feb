@@ -40,7 +40,7 @@
 13. (May 10) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
 14. (May 17) 物理光學 physical optics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Optics_part1.pdf)
 15. (May 24) 幾何光學 geometric optics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Optics_part2.pdf)
-16. (May 31) 原子核物理簡介 introduction to nuclear physics
+16. (May 31) 原子核物理簡介 introduction to nuclear physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/NuclearParticlePhysics.pdf)
 
 ## Goal:
 1. Knowing modern physics, in particular, quantum physics.
